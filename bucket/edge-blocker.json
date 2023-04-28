@@ -7,7 +7,6 @@
     },
     "extract_dir":  "EdgeBlock",
     "url":  "https://www.sordum.org/files/downloads.php?st-edge-block",
-    "depends":  "",
     "homepage":  "https://www.sordum.org/9312/edge-blocker-v1-7/",
     "architecture": {
         "64bit": {
