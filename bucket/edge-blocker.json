@@ -6,7 +6,7 @@
         "url": "https://www.sordum.org/eula/"
     },
     "extract_dir":  "EdgeBlock",
-    "url":  "https://www.sordum.org/files/downloads.php?st-edge-block",
+    "url":  "https://www.sordum.org/files/download/edge-blocker/EdgeBlock.zip",
     "homepage":  "https://www.sordum.org/9312/edge-blocker-v1-7/",
     "architecture": {
         "64bit": {
