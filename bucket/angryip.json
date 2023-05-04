@@ -2,7 +2,6 @@
   "homepage": "https://angryip.org/",
   "version": "3.9.1",
   "url": "https://github.com/angryip/ipscan/releases/download/3.9.1/ipscan-win64-3.9.1.exe",
-  "hash": "",
   "depends": "java/microsoft11-jdk",
   "license": {
     "identifier": "Freeware",
@@ -15,9 +14,8 @@
   },
   "shortcuts":[
     ["ipscan-win64-3.9.1.exe", "Angry IP Scanner"]
-  ]
-
-  ,
+  ],
+  "hash":"ae50c71517182c9773bb138745f10a643b1215078ede439b2b3adb486a9cfb14",
   "autoupdate": {
     "architecture": {
         "64bit": {
