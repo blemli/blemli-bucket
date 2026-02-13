@@ -5,7 +5,6 @@
     "license": "MIT",
     "url": "https://github.com/blemli/ope/releases/download/v0.1.0/ope_windows_amd64.zip",
     "hash": "fd439c26d6d7b4a0abbfe1ef01080c52830f6a983bd27a6cf5dca019592f483a",
-    "extract_dir": "ope_windows_amd64",
     "bin": "ope.exe",
     "post_install": "& \"$dir\\ope.exe\" install",
     "pre_uninstall": "& \"$dir\\ope.exe\" uninstall",
@@ -13,7 +12,6 @@
         "github": "https://github.com/blemli/ope"
     },
     "autoupdate": {
-        "url": "https://github.com/blemli/ope/releases/download/v$version/ope_windows_amd64.zip",
-        "extract_dir": "ope_windows_amd64"
+        "url": "https://github.com/blemli/ope/releases/download/v$version/ope_windows_amd64.zip"
     }
 }
